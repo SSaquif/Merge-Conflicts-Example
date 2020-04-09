@@ -3,3 +3,5 @@
 This should create a conflict
 
 Still stuck at home.
+
+Still stuck
